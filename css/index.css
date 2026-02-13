@@ -1,0 +1,33 @@
+body{
+    width: 100%;
+    margin: auto 0;
+    background-color: #fff;
+}
+
+header{
+    text-align: center;
+}
+
+header p{
+    color: #333;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+header img{
+    width: 200px;
+    height: auto;
+    margin-top: 20px;
+}
+#resources{
+    padding-left: 50px;
+}
+
+#resources ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+#resources ul h4{
+    margin-bottom: 10px;
+}
